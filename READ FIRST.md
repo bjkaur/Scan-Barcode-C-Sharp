@@ -3,6 +3,7 @@ Scanning software using UI to create a Barcode. Create and update existing JSON 
 
 Read Files: 
 - Create.cs 
+- GetForm.cs
 - HomeForm.cs
 - SSMManager.cs
 - SSMPositionManager.cs
