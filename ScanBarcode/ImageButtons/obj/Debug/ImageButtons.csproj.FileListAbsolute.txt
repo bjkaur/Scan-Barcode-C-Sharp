@@ -1,0 +1,7 @@
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\bin\Debug\ImageButtons.dll
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\bin\Debug\ImageButtons.pdb
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\obj\Debug\ImageButtons.CustomButton.resources
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\obj\Debug\ImageButtons.csproj.GenerateResource.cache
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\obj\Debug\ImageButtons.csproj.CoreCompileInputs.cache
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\obj\Debug\ImageButtons.dll
+C:\Users\kaur_b\source\repos\ScanBarcode\ImageButtons\obj\Debug\ImageButtons.pdb
