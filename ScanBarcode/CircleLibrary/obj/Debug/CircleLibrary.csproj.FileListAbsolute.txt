@@ -1,0 +1,5 @@
+C:\Users\kaur_b\source\repos\ScanBarcode\CircleLibrary\bin\Debug\CircleLibrary.dll
+C:\Users\kaur_b\source\repos\ScanBarcode\CircleLibrary\bin\Debug\CircleLibrary.pdb
+C:\Users\kaur_b\source\repos\ScanBarcode\CircleLibrary\obj\Debug\CircleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kaur_b\source\repos\ScanBarcode\CircleLibrary\obj\Debug\CircleLibrary.dll
+C:\Users\kaur_b\source\repos\ScanBarcode\CircleLibrary\obj\Debug\CircleLibrary.pdb
